@@ -51,5 +51,12 @@ npm start
 npm run gather
 ```
 
+# 👤 Author
 
+### Discord: volt.sol in discord
+
+### Telegram: [SolVeerDave](https://t.me/daniel0130sol)   
+https://t.me/SolVeerDave
+
+You can always find me here, for help, or for other projects.
 
