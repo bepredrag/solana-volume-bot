@@ -52,14 +52,4 @@ npm run gather
 ```
 
 
-# 👤 Author
 
-### Discord: volt.sol in discord
-
-### Twitter: [Colin](https://x.com/Colin0x)   
-https://x.com/Colin0x
-
-### Telegram: [SolVeerDave](https://t.me/SolVeerDave)   
-https://t.me/SolVeerDave
-
-You can always find me here, for help, or for other projects.
