@@ -55,8 +55,8 @@ npm run gather
 
 ### Discord: volt.sol in discord
 
-### Telegram: [Daniel](https://t.me/daniel0130sol)   
-https://t.me/daniel0130sol
+### Telegram: [Dillon](https://t.me/dillon0130)   
+https://t.me/dillon0130
 
 You can always find me here, for help, or for other projects.
 
